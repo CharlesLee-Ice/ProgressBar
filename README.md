@@ -1,1 +1,1 @@
-![ScreenShot](https://github.com/CharlesLee-Ice/ProgressBar/master/image/pic.png)
+![ScreenShot](https://github.com/CharlesLee-Ice/ProgressBar/tree/master/image/pic.png)
